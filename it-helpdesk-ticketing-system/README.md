@@ -48,3 +48,42 @@ Support
 ├── Network Support
 ├── Software Support
 └── Account & Access
+
+## Ticket Workflow
+User submits ticket
+        ↓
+Ticket categorization
+        ↓
+Ticket assignment
+        ↓
+Troubleshooting
+        ↓
+Internal note
+        ↓
+Response to user
+        ↓
+Resolution
+
+## Sample Ticket
+### Printer tidak bisa mencetak dokumen
+- Issue
+- Troubleshooting
+- Resolution
+- Status
+
+## Screenshots
+- Dashboard
+- Departments
+- Ticket
+- Resolved Ticket
+
+## Skills Practiced
+- Ticket Management
+- Troubleshooting
+- Issue Documentation
+- SLA Management
+- Technical Communication
+
+## Tools
+osTicket · Laragon · Apache · PHP · MySQL
+
