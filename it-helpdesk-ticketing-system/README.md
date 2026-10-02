@@ -48,6 +48,7 @@ Support
 ├── Network Support
 ├── Software Support
 └── Account & Access
+```
 
 ## Ticket Workflow
 User submits ticket
